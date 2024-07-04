@@ -73,11 +73,11 @@ In ```config.json```, the following fields should be modified for your environme
 ## Usage <a name="usage"/></a>
 To start the server, execute the following command:
 ```
-$ python3 cats_server.py -c [CONFIG_FILE]
+$ sudo python3 cats_server.py -c cui_sample.config.yaml
 ```
 Next, prepare another console, start the client program, and initiate a connection to the server.
 ```
-$ python3 catsploit.py -s [SOCKET_PATH]
+$ sudo  python3 catsploit.py -s /tmp/cats.usock
 ```
 After successfully connecting to the server and initializing it, the session will start.
 ```
