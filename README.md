@@ -53,7 +53,7 @@ $ sudo ./setup.sh
 ```
 $ sudo -i
 # msfdb init
-# cat  cat /usr/share/metasploit-framework/config/database.yml
+# cat /usr/share/metasploit-framework/config/database.yml
 ```
 The password for msf should be added to the ```config.json``` in the  ```"msfpassword":``` section 
 
