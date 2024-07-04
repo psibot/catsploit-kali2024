@@ -87,7 +87,7 @@ pause
 echo 
 echo -e "\e[32m[*]\e[0m \e[1m Greenbone Openvas setup  \e[0m"
 echo 
-#sudo gvm-setup
+sudo gvm-setup
 echo 
 pause 
 echo
