@@ -42,7 +42,7 @@ To install the latest version of CATSploit, please use the following commands:
 
 ##### Cloneing and setup
 ```
-$ https://github.com/psibot/catsploit-kali2024.git
+$ git clone https://github.com/psibot/catsploit-kali2024.git
 $ cd catsploit-kali2024/
 $ git clone https://github.com/catsploit/cats-helpers.git
 $ sudo sh ./setup.sh
