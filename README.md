@@ -49,6 +49,15 @@ $ chmod 775 setup.sh
 $ sudo ./setup.sh
 ```
 
+##### Metasploit Setup with Password 
+```
+$ sudo -i
+# msfdb init
+# cat  cat /usr/share/metasploit-framework/config/database.yml
+```
+The password for msf should be added to the ```config.json``` in the  ```"msfpassword":``` section 
+
+
 #### Editing configuration file
 CATSploit is a server-client configuration, and the server reads the configuration JSON file at startup.
 In ```config.json```, the following fields should be modified for your environment.
