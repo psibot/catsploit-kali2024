@@ -35,7 +35,7 @@ CATSploit uses Metasploit as a framework and Metasploit API to execute actual at
 ## Prerequisities
 CATSploit has the following prerequisites:
 
-* Kali Linux 2023.2a
+* Kali Linux 2024.2a
 
 ## Installation
 For Metasploit, Nmap and OpenVAS, it is assumed to be installed with the [Kali Distribution](https://www.kali.org/).
@@ -75,11 +75,11 @@ In ```config.json```, the following fields should be modified for your environme
 ## Usage <a name="usage"/></a>
 To start the server, execute the following command:
 ```
-$ python cats_server.py -c [CONFIG_FILE]
+$ python3 cats_server.py -c [CONFIG_FILE]
 ```
 Next, prepare another console, start the client program, and initiate a connection to the server.
 ```
-$ python catsploit.py -s [SOCKET_PATH]
+$ python3 catsploit.py -s [SOCKET_PATH]
 ```
 After successfully connecting to the server and initializing it, the session will start.
 ```
