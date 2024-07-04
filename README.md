@@ -28,9 +28,6 @@ CATSploit uses Metasploit as a framework and Metasploit API to execute actual at
 * [Installation](#Installation)
 * [Usage](#usage)
 * [Examples](#examples)
-* [Disclaimer](#disclaimer)
-* [License](#license)
-* [Contact](#contact)
 
 ## Prerequisities
 CATSploit has the following prerequisites:
