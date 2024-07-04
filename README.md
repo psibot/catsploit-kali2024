@@ -57,6 +57,8 @@ $ sudo -i
 ```
 The password for msf should be added to the ```config.json``` in the  ```"msfpassword":``` section 
 
+Also look at https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/
+For full detail on metasploit setup.
 
 #### Editing configuration file
 CATSploit is a server-client configuration, and the server reads the configuration JSON file at startup.
