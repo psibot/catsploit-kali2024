@@ -313,16 +313,3 @@ Bye.
 
 ## Disclaimer
 All informations and codes are provided solely for educational purposes and/or testing your own systems.
-
-## License
-```
-Copyright (C) 2023　Mitsubishi Electric Corporation.
-
-The License details can be found at following URL:
-
-https://github.com/catsploit/catsploit/LICENSE
-```
-## Contact
-For any inquiry, please contact the email address as follows:
-
-catsploit@nk.MitsubishiElectric.co.jp
